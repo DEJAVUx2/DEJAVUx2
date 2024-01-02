@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bilgisayar mühendisliği okuyorum, yazılım alanında kendimi geliştiriyorum.<br>Burada projelerimi ve bilgi alışverişinde bulunuyorum
+Bilgisayar mühendisliği okuyorum, Burada yazılım alanında kendimi geliştirmek,  <br>projelerimi paylaşmak ve bilgi alışverişinde bulunuyorum
 
 
 # 💻 Tech Stack:
